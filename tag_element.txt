@@ -1,0 +1,28 @@
+Answer-03***************
+
+<h1>this is content of the element</h>
+
+whole above line is basically element and <h1> is basically a tag 
+so the element in html consist of a opening tag closing tag and content inside it..
+
+if there is no content inside the html element then it is called empty elemnt..
+
+there are many types of of tags in html but some are majorly used which are as mentioned below:
+
+<h1></h1>
+<main></main>
+<p></p>
+<a></a>
+<section></section>
+<div></div>  and son on....
+
+----------------------------------------------------------------------------------------
+
+
+Answer-04*************************
+
+<!DOCTYPE HTML>
+
+it is not a html tag..
+this is basically the declaration to the browser that we are using a html5 type document 
+or we can say it tells the browser that the page to be rendered is written in html..
